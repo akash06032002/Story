@@ -1,0 +1,5 @@
+secrets.txt
+
+#This is a comment
+
+#  *.txt //all the fils with th txt exxtension will be ignored
